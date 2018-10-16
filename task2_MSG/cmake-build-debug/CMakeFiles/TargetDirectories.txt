@@ -1,0 +1,3 @@
+/home/nadezhin/workspace/lunev/task2_MSG/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/nadezhin/workspace/lunev/task2_MSG/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/nadezhin/workspace/lunev/task2_MSG/cmake-build-debug/CMakeFiles/task2_MSG.dir

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nadezhin/workspace/lunev/task2_MSG/main.c
+sys/types.h
+-
+sys/ipc.h
+-
+sys/msg.h
+-
+stdio.h
+-
+stdlib.h
+-
+errno.h
+-
+unistd.h
+-
+wait.h
+-
+
